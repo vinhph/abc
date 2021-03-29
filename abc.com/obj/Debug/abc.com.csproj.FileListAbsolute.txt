@@ -1,0 +1,7 @@
+c:\users\vinhph\source\repos\abc.com\abc.com\bin\abc.com.dll.config
+c:\users\vinhph\source\repos\abc.com\abc.com\bin\abc.com.dll
+c:\users\vinhph\source\repos\abc.com\abc.com\bin\abc.com.pdb
+c:\users\vinhph\source\repos\abc.com\abc.com\obj\Debug\abc.com.csprojAssemblyReference.cache
+c:\users\vinhph\source\repos\abc.com\abc.com\obj\Debug\abc.com.csproj.CoreCompileInputs.cache
+c:\users\vinhph\source\repos\abc.com\abc.com\obj\Debug\abc.com.dll
+c:\users\vinhph\source\repos\abc.com\abc.com\obj\Debug\abc.com.pdb
